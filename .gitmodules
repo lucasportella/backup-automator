@@ -1,0 +1,6 @@
+[submodule "backup-automator-windows"]
+	path = backup-automator-windows
+	url = https://github.com/lucasportella/backup-automator-windows
+[submodule "backup-automator-linux"]
+	path = backup-automator-linux
+	url = https://github.com/lucasportella/backup-automator-linux
